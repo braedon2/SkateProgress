@@ -13,9 +13,9 @@ After watching it many times this is how I would summarize how to do an ollie:
 1. Place your back toe on the back tail of the board (the part that curves upward) and place your
    front foot somewhere in the middle of the board so that it feels comfortable
 2. Crouch down and begin to jump
-3. When the legs near extension, begin to raise the front foot and flick the back heel down
-4. Continue raising the front foot and allow to board to become almost vertical
-5. Push your front foot forward (allowing it to slide up the board) while raising the back leg
+3. When your legs near extension, begin to raise your front foot and flick your back heel down
+4. Continue raising your front foot and allow the board to become almost vertical
+5. Push your front foot forward (allowing it to slide up the board) while raising your back leg
 6. Land
 
 ## Breakdown Of An Almost Succesful Attempt
