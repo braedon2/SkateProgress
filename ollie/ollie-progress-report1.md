@@ -1,5 +1,5 @@
 
-# Ollie Progress Report 1 (June 15, 2020)
+# Ollie Progress Update 1 (June 15, 2020)
 
 Today was my first practice session since I analyzed one of my [first attemps](ollie-first-attempts.md). 
 Jumping up and down over and over again for two and a half hours is incredibly tiring in the hot 
